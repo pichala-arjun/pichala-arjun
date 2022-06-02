@@ -26,4 +26,7 @@ Feature: verify naukri edit profile page
     Then user clicks on edit button on resume headlines section
     Then verify resume headlines got uploaded
      
+     
+     
+     
   
